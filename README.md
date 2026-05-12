@@ -1,4 +1,5 @@
 # Guerrero-post2-u11
+## Juan Pablo Guerrero Hernandez - 0223013209
 
 **Programación Web — Unidad 11: Buenas Prácticas y Patrones de Diseño**  
 Post-Contenido 2 — Logging con SLF4J/Logback y Documentación con Swagger/OpenAPI  
